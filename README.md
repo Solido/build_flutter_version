@@ -1,5 +1,8 @@
 ## This is a proof of concept and WIP
 
+I wrote this specific Flutter and Git version based on the work of https://github.com/kevmoo/build_version
+and will try to follow this package evolution.
+
 #### Feedback and ideas welcome !!
 
 Access your pubspec and git commit informations like versions and commit status from **auto-generated** widgets.
