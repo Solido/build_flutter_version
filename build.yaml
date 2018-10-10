@@ -1,0 +1,14 @@
+# Read about `build.yaml` at https://pub.dartlang.org/packages/build_config
+targets:
+  $default:
+    builders:
+      build_flutter_version:
+        enabled: true
+
+builders:
+  build_flutter_version:
+    import: "package:build_flutter_version/builder.dart"
+    builder_factories: ["buildFlutterVersion"]
+    build_extensions: {"$lib$": ["version.dart"]}
+    build_to: source
+    auto_apply: dependents
