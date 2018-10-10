@@ -9,12 +9,17 @@ expose advanced info in production or dev only to help debug specific builds.
 
 Preconfigured widgets 
 
+#### Flutter
+
 - [Title](https://docs.flutter.io/flutter/widgets/Title-class.html)
 - [AboutDialog](https://docs.flutter.io/flutter/material/AboutDialog-class.html)
 - [AboutListTile](https://docs.flutter.io/flutter/material/AboutListTile-class.html)
 
+#### In house
 
-More to come !
+- Journal
+
+[More to come !](https://github.com/Solido/build_flutter_version/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
 
 _NB: I wrote this specific Flutter and Git version based on the work of https://github.com/kevmoo/build_version
 and will try to follow this package evolution on top of our own requirements._
@@ -61,8 +66,3 @@ DisplayVersion(
 - Inherited Title
 - AboutDialog
 - AboutListTile
-
-## Todo
-
-- [ ] Acces n last commits
-- [ ] Avoid generating git related field when there's no repository
