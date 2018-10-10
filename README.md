@@ -1,8 +1,11 @@
 ## This is a proof of concept and WIP
 
-Access your pubspec application version and git commit status from auto-generated widgets.
-Configure your widget to display last commit numbers or message and choose to display it in 
-debug only or help your users debug your application by providing build informations on AboutDialog.
+Access your pubspec and git commit informations like versions and commit status from **auto-generated** widgets.
+
+Configure your widgets to display pertinent and always up to date informations to your users like the last build version,
+expose advanced info in production or dev only to help debug specific builds.
+
+We also generate 
 
 ## Installation
 
