@@ -17,6 +17,7 @@ Preconfigured widgets
 
 #### In house
 
+- DisplayVersion
 - Journal
 
 [More to come !](https://github.com/Solido/build_flutter_version/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
