@@ -28,10 +28,10 @@ Just import this file to access Widgets that fits your needs.
 
 ```dart
 DisplayVersion(
-  // Version contains all the info about the pubspec and last git commit
+  // Version contains infos about the pubspec and last git commit
   builder: (context, version) { 
      return Text("${version.name} ${version.version} / ${version.gitInfo.message} : ${version.gitInfo.sha}");
-     // Will render MyAppName 1.2 / adding help section : c78d654678iozka8790
+     // => MyAppName 1.2 / adding help section : c78d654678iozka8790
   },
 )
 ```
