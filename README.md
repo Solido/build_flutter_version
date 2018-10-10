@@ -5,7 +5,9 @@ Access your pubspec and git commit informations like versions and commit status 
 Configure your widgets to display pertinent and always up to date informations to your users like the last build version,
 expose advanced info in production or dev only to help debug specific builds.
 
-We also generate 
+We also preconfigure AboutDialog and AboutListTile.
+
+More to come !
 
 ## Installation
 
