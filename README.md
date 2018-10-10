@@ -21,10 +21,15 @@ and will try to follow this package evolution on top of our own requirements._
 
 ## Installation
 
-Add this builder
+Add this builder under the `dev_dependencies` section of the `pubspec.yaml` file:
 
-    build_flutter_version:
-        https://github.com/Solido/build_flutter_version
+```yaml
+dev_dependencies:
+  build_runner: ^1.0.0
+  build_flutter_version:
+    git:
+      url: https://github.com/Solido/build_flutter_version
+```
 
 Then
 
