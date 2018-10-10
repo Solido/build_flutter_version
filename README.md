@@ -7,7 +7,12 @@ Access your pubspec and git commit informations like versions and commit status 
 Configure your widgets to display pertinent and always up to date informations to your users like the last build version,
 expose advanced info in production or dev only to help debug specific builds.
 
-We also preconfigure AboutDialog and AboutListTile.
+Preconfigured widgets 
+
+- [Title](https://docs.flutter.io/flutter/widgets/Title-class.html)
+- [AboutDialog](https://docs.flutter.io/flutter/material/AboutDialog-class.html)
+- [AboutListTile](https://docs.flutter.io/flutter/material/AboutListTile-class.html)
+
 
 More to come !
 
