@@ -1,8 +1,5 @@
 ## This is a proof of concept and WIP
 
-I wrote this specific Flutter and Git version based on the work of https://github.com/kevmoo/build_version
-and will try to follow this package evolution.
-
 #### Feedback and ideas welcome !!
 
 Access your pubspec and git commit informations like versions and commit status from **auto-generated** widgets.
@@ -13,6 +10,9 @@ expose advanced info in production or dev only to help debug specific builds.
 We also preconfigure AboutDialog and AboutListTile.
 
 More to come !
+
+_NB: I wrote this specific Flutter and Git version based on the work of https://github.com/kevmoo/build_version
+and will try to follow this package evolution on top of our own requirements._
 
 ## Installation
 
