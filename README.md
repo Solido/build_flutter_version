@@ -1,5 +1,7 @@
 ## This is a proof of concept and WIP
 
+#### Feedback and ideas welcome !!
+
 Access your pubspec and git commit informations like versions and commit status from **auto-generated** widgets.
 
 Configure your widgets to display pertinent and always up to date informations to your users like the last build version,
