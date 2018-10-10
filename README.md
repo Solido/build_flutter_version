@@ -60,3 +60,4 @@ DisplayVersion(
 ## Todo
 
 - [ ] Acces n last commits
+- [ ] Avoid generating git related field when there's no repository
