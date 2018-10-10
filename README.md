@@ -20,7 +20,8 @@ Then
 
     flutter packages pub run build_runner watch
     
-Will generate Widgets available in 'utils/version.dart'
+Will generate a dart file at `utils/version.dart`
+Just import this file to access Widgets that fits your needs.
 
 
 ## Configuration
