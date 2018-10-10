@@ -14,6 +14,11 @@ More to come !
 _NB: I wrote this specific Flutter and Git version based on the work of https://github.com/kevmoo/build_version
 and will try to follow this package evolution on top of our own requirements._
 
+## Requirements
+
+- Git command available in current path
+- Working on an existing git dir
+
 ## Installation
 
 Add this builder
@@ -41,12 +46,7 @@ DisplayVersion(
 )
 ```
 
-
-## Requirements
-
-- Git command available in current path
-
-Check
+### Check required
 
 - Inherited Title
 - AboutDialog
