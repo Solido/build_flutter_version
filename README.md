@@ -12,8 +12,7 @@ Then
 
     flutter packages pub run build_runner watch
     
-Will generated Widgets will be generated to 'utils/version.dart'
-
+Will generate Widgets available in 'utils/version.dart'
  
 
 Requirements
